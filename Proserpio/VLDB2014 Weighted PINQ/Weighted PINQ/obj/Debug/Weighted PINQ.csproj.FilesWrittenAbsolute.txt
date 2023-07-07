@@ -1,0 +1,6 @@
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/bin/Debug/Weighted PINQ.dll.config
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/bin/Debug/Weighted PINQ.dll.mdb
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/bin/Debug/Weighted PINQ.dll
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/obj/Debug/Weighted PINQ.dll
+/home/data/Desktop/t/Proserpio/VLDB2014 Weighted PINQ/Weighted PINQ/obj/Debug/Weighted PINQ.dll.mdb

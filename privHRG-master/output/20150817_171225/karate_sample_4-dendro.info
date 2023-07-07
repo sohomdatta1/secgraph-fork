@@ -1,0 +1,16 @@
+---HIERARCHICAL-RANDOM-GRAPH---
+StartTime     : Mon Aug 17 17:12:25 2015
+InputFile     : data/karate.pairs
+Directory     : data/
+---Basic-Graph-Information---
+Nodes         : 34
+Edges         : 78
+---HRG-Information---
+OutputTime    : Mon Aug 17 17:12:26 2015
+NumStepsMCMC  : 3433
+LogLikelihood : -212.809
+epsilon_hrg : 0.5
+epsilon_edge : 0.5
+T:             0.0375111
+HRG           : output/20150817_171225/karate_sample_4-dendro.hrg
+InfoFile      : output/20150817_171225/karate_sample_4-dendro.info

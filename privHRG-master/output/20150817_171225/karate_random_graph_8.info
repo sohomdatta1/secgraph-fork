@@ -1,0 +1,10 @@
+---HIERARCHICAL-RANDOM-GRAPH---
+StartTime     : Mon Aug 17 17:12:25 2015
+Directory     : output/20150817_171225/
+---Basic-Graph-Information---
+Nodes         : 34
+Edges         : 96
+---HRG-Information---
+HRG           : output/20150817_171225/karate_sample_8-dendro.hrg
+logL          : -210.312
+epsilon_edge  : 0.5
